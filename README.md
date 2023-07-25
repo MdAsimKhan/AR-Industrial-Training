@@ -5,5 +5,6 @@ AR enabled simulation for industrial training of professionals around the winch 
 1. Install Vuforia pkg
 
 # Note
-**dont-destroy-arcam** branch the most updated.
-Experimentation is done on **origin** but kept on local.
+* **dont-destroy-arcam** branch is the one with the same name script.
+* **origin**  is the first push.
+* **pkg-reimport** is the one after reimporting vufoira.
