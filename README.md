@@ -3,4 +3,7 @@ AR enabled simulation for industrial training of professionals around the winch 
 
 # Project Setup
 1. Install Vuforia pkg
-2. Install UNity XR Plugin Management and enable AR Core
+
+# Note
+**dont-destroy-arcam** branch the most updated.
+Experimentation is done on **origin** but kept on local.
